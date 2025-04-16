@@ -85,6 +85,6 @@ python intrusion_gui_mqtt.py
 _All located in the `docs/` folder (if uploaded)._
 
   Project Link
-GitHub Repository: https://github.com/Musabr18/Intrusion-Detection-System-MQTT/upload/main
+GitHub Repository: https://github.com/Musabr18/Intrusion-Detection-System-MQTT
 
 
